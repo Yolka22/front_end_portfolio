@@ -1,0 +1,22 @@
+.nav-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    height: 40px;
+    background-color: #181818;
+}
+.nav-item p{
+    color: #4a4a51;
+}
+nav{
+    background-color: #1d1d1d;
+    width: 120px;
+}
+.nav-item{
+    cursor: pointer;
+}
+Link{
+    
+    text-decoration: none;
+}
